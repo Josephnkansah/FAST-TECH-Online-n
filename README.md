@@ -1,6 +1,7 @@
 FAST TECH Online
-
-http://172.20.10.4:5500/
+ Five Server running at:
+  > Network:  http://172.20.10.4:5500
+  > Local:    http://localhost:5500
 
 
 
